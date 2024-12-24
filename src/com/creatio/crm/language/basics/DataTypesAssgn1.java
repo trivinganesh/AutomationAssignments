@@ -1,6 +1,6 @@
 package com.creatio.crm.language.basics;
 
-public class DataTy {
+public class DataTypesAssgn1 {
 
 	public static void main(String[] args) {
 
