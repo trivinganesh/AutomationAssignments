@@ -1,6 +1,6 @@
 package com.creatio.crm.language.basics;
 
-public class CoomentsInJava {
+public class CoomentsInJavaScore {
 
 	public static void main(String[] args) {
 		
