@@ -24,7 +24,7 @@ public class ArrayAssign2 {
 		sprmrkt[1][2] = new String[] { "Cottage Cheese", "Heavy Cream", "Ice Cream", "Parmesan Cheese", "Eggnog" };
 		sprmrkt[1][3] = new String[] { "Apples", "Bananas", "Carrots", "Potatoes", "Onions" };
 
-		// System.out.println("The Groceries products of Snacks: " + sprmrkt[0][1][1]);
+	      System.out.println("The Groceries products of Snacks: " + sprmrkt[0][1][1]);
 		
 		
 		
