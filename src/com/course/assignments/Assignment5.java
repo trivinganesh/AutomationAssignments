@@ -93,7 +93,7 @@ public class Assignment5 {
 		randomnumber[8] = 63;
 		randomnumber[9] = 50;
 
-		System.out.println(randomnumber[2] + randomnumber[4]);
+		System.out.println("The sum 3rd and 5th value:"+(randomnumber[2] + randomnumber[4]));
 
 		/*
 		 * Question-1 The most second populated country :China 
